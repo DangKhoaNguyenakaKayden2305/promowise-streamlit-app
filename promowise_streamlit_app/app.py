@@ -13,10 +13,11 @@ st.set_page_config(
     layout="wide",
 )
 
-MODEL_PATH = Path("model/promowise_demand_model.pkl")
-METADATA_PATH = Path("model/model_metadata.json")
-REFERENCE_PATH = Path("data/reference_data.csv")
-RESULTS_PATH = Path("data/model_validation_results.csv")
+BASE_DIR = Path(__file__).parent
+MODEL_PATH = BASE_DIR / "model/promowise_demand_model.pkl"
+METADATA_PATH = BASE_DIR / "model/model_metadata.json"
+REFERENCE_PATH = BASE_DIR / "data/reference_data.csv"
+RESULTS_PATH = BASE_DIR / "data/model_validation_results.csv"
 
 
 @st.cache_resource
