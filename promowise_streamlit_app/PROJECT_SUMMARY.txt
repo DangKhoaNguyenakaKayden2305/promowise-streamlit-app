@@ -1,0 +1,4 @@
+PromoWise Streamlit MVP was built using the uploaded Sunshine Grocery dataset. The selected model is LightGBM Gradient Boosting. 
+The validation performance was RMSE=0.706 and R²=0.609. 
+On the sampled held-out test set, the model achieved RMSE=0.732 and R²=0.564. 
+The Streamlit interface allows a manager to choose a store, brand, week, price, coupon and feature advertising setting, then returns predicted demand, predicted lift against a no-promotion baseline, and a campaign recommendation.

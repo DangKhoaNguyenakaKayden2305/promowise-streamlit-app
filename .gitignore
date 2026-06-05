@@ -1,0 +1,25 @@
+# Training data — large file not needed at runtime (app only uses reference_data.csv)
+promowise_streamlit_app/data/sunshine_grocery_powerbi_ready.csv
+
+# Claude Code internal settings
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
