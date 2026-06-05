@@ -15,7 +15,10 @@ Instead of only showing a prediction number, PromoWise helps retail managers und
 
 ## App Preview
 
-<img width="2556" height="1287" alt="image" src="https://github.com/user-attachments/assets/9ba21c67-f32d-4f7e-bd5a-5f4824277db9" />
+<img width="2553" height="1293" alt="image" src="https://github.com/user-attachments/assets/a5b767be-929e-4c0e-8948-c58cebd97add" />
+Promotional Impact: 
+<img width="2545" height="1267" alt="image" src="https://github.com/user-attachments/assets/145f996b-299a-4d7e-a47e-3bd251a3086d" />
+
 
 
 ---
